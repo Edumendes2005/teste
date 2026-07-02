@@ -16,8 +16,4 @@ Lista de dApps utilizados para gerar volume e contratos únicos:
 2. **Lending (Empréstimos):** Seamless Protocol, Aave V3.
 3. **Pontes (Bridges):** Base Official Bridge, Orbiter Finance, Across.
 
-## 📊 Critérios Focados (Checklist)
-- [x] Rastrear transações oficiais pela Bridge Principal da Base.
-- [x] Interagir com mais de 10 contratos inteligentes diferentes.
-- [ ] Alcançar um volume de transações acumulado acima de \$1,000.
-- [ ] Manter atividade consistente por mais de 3 meses seguidos.
+1
