@@ -20,4 +20,4 @@ Este repositório foi criado para documentar, testar e automatizar interações 
 - [ ] Criar script para interação diária/semanal.
 - [ ] Mapear principais protocolos da Base (Aerodrome, Base Paint, etc.).
 - [ ] docs: atualiza README com objetivos do projeto Base
-- [ ] 1234567890123455789012345678901234569601234567897012345678980123456789
+- [ ] 123456789012345578901234567890123456960123456789701234567898012345678990
